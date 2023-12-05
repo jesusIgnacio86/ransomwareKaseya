@@ -1,4 +1,4 @@
-# ransomwareKaseya
+# Ransomware Kaseya
 Repositorio Trabajo: Vectores de Ataque Magister Universidad Mayor Chile
 <hr>
 <a href="https://github.com/FroggMaster/FlipperZero">
