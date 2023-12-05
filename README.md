@@ -1,8 +1,8 @@
 # Ransomware Kaseya
 Repositorio Trabajo: Vectores de Ataque Magister Universidad Mayor Chile
 <hr>
-<a href="https://github.com/FroggMaster/FlipperZero">
-  <img src="https://github.com/jesusIgnacio86/FlipperZero/blob/main/flipperzero.jpg" align="center" alt="Frog's Flipper Zero Repo" title="Frog's Flipper Zero Repo" width="800" height="300">
+<a href="https://github.com/jesusIgnacio86/ransomwareKaseya/tree/main">
+  <img src="https://github.com/jesusIgnacio86/ransomwareKaseya/blob/main/Kaseya.jpg" align="center" alt="Frog's Flipper Zero Repo" title="Vectores de Ataque" width="800" height="300">
 </a>
 
 <hr>
