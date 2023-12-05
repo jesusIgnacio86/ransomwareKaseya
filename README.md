@@ -7,7 +7,7 @@ Repositorio Trabajo: Vectores de Ataque Magister Universidad Mayor Chile
 
 <hr>
 <h3 align="center">
- A collection of notes, scripts, applications, frequencies, etc... for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
+ El viernes 2 de julio de 2021, mientras los estadounidenses se preparaban para las celebraciones del 4 de julio, la empresa de IT Kaseya se convirtió en el objetivo de un ataque de ransomware perpetrado por el grupo con sede en Rusia REvil. este artículo explica cómo se desarrolló el ataque y qué medidas preventivas se pueden implementar para evitar convertirse en víctimas de ransomware.<br><br>
   <a href="#">
     <img src="https://img.shields.io/badge/Flipper%20Zero-Frog's%20Index-green" alt="Flipper Zero Frog's Repo O Things" height=24>
     <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
